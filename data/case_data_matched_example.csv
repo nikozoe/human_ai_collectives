@@ -1,0 +1,6 @@
+id,created_at,creator_id,url,is_spec_im,is_spec_surg,is_spec_other,diagnosis_names,num_pcos,age,sex,acuity,care_setting,geography,chief_complaint,is_gmr,sctids,vignette_text
+3615,2015-06-04 22:14:13.545000+00:00,394,https://www.humandx.org/o/5g8c7ormy147168zsw6otj6am,False,False,False,['Histoplasmosis'],4,40 year,Female,,,,Chest Pain,False,{12962009},"40 year Female presents with Chest Pain.
+- Symptom: 2 week(s) ago, Worsening Chest Pain Associated With Cough, Associated With Dyspnea, Associated With Fever, Complicated By Fatigue
+- Social History > Home / Environment: Timing > Relative Timing: Construction of development ohio
+- Physical Exam > Lungs: wheezing
+- Diagnostic: Interpretation: Normal X-ray"

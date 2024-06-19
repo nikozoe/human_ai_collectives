@@ -1,0 +1,401 @@
+llm_model,pc_id,prompt,diagnosis,rank,sctid,is_correct
+OpenAI_gpt-4-1106-preview,3615,base_common,Acute bronchitis,1,10509002,False
+OpenAI_gpt-4-1106-preview,3615,base_common,Pneumonia,2,233604007,False
+OpenAI_gpt-4-1106-preview,3615,base_common,Asthma exacerbation,3,281239006,False
+OpenAI_gpt-4-1106-preview,3615,base_common,Pulmonary embolism,4,59282003,False
+OpenAI_gpt-4-1106-preview,3615,base_common,Costochondritis,5,64109004,False
+OpenAI_gpt-4-1106-preview,3615,base_sct,Acute bronchitis (disorder),1,10509002,False
+OpenAI_gpt-4-1106-preview,3615,base_sct,Pneumonia (disorder),2,233604007,False
+OpenAI_gpt-4-1106-preview,3615,base_sct,Acute viral pharyngitis (disorder),3,195662009,False
+OpenAI_gpt-4-1106-preview,3615,base_sct,Costochondritis (disorder),4,64109004,False
+OpenAI_gpt-4-1106-preview,3615,base_sct,Pulmonary embolism (disorder),5,59282003,False
+OpenAI_gpt-4-1106-preview,3615,base_personalization_common,Acute bronchitis,1,10509002,False
+OpenAI_gpt-4-1106-preview,3615,base_personalization_common,Pneumonia,2,233604007,False
+OpenAI_gpt-4-1106-preview,3615,base_personalization_common,Asthma exacerbation,3,281239006,False
+OpenAI_gpt-4-1106-preview,3615,base_personalization_common,Pulmonary embolism,4,59282003,False
+OpenAI_gpt-4-1106-preview,3615,base_personalization_common,Costochondritis,5,64109004,False
+OpenAI_gpt-4-1106-preview,3615,base_personalization_sct,Acute bronchitis (disorder),1,10509002,False
+OpenAI_gpt-4-1106-preview,3615,base_personalization_sct,Pneumonia (disorder),2,233604007,False
+OpenAI_gpt-4-1106-preview,3615,base_personalization_sct,Acute viral pharyngitis (disorder),3,195662009,False
+OpenAI_gpt-4-1106-preview,3615,base_personalization_sct,Costochondritis (disorder),4,64109004,False
+OpenAI_gpt-4-1106-preview,3615,base_personalization_sct,Pulmonary embolism (disorder),5,59282003,False
+OpenAI_gpt-4-1106-preview,3615,base_personalization_common_selfconsistent,Acute bronchitis,1,10509002,False
+OpenAI_gpt-4-1106-preview,3615,base_personalization_common_selfconsistent,Pneumonia,2,233604007,False
+OpenAI_gpt-4-1106-preview,3615,base_personalization_common_selfconsistent,Asthma exacerbation,3,281239006,False
+OpenAI_gpt-4-1106-preview,3615,base_personalization_common_selfconsistent,Pulmonary embolism,4,59282003,False
+OpenAI_gpt-4-1106-preview,3615,base_personalization_common_selfconsistent,Costochondritis,5,64109004,False
+OpenAI_gpt-4-1106-preview,3615,base_personalization_sct_selfconsistent,Acute bronchitis (disorder),1,10509002,False
+OpenAI_gpt-4-1106-preview,3615,base_personalization_sct_selfconsistent,Pneumonia (disorder),2,233604007,False
+OpenAI_gpt-4-1106-preview,3615,base_personalization_sct_selfconsistent,Acute viral pharyngitis (disorder),3,195662009,False
+OpenAI_gpt-4-1106-preview,3615,base_personalization_sct_selfconsistent,Acute upper respiratory infection (disorder),4,54398005,False
+OpenAI_gpt-4-1106-preview,3615,base_personalization_sct_selfconsistent,Bronchial asthma (disorder),5,41427001,False
+OpenAI_gpt-4-1106-preview,3615,base_personalization_sct_selfconsistent_fewshot,Acute bronchitis,1,10509002,False
+OpenAI_gpt-4-1106-preview,3615,base_personalization_sct_selfconsistent_fewshot,Asthma,2,195967001,False
+OpenAI_gpt-4-1106-preview,3615,base_personalization_sct_selfconsistent_fewshot,Pneumonia,3,233604007,False
+OpenAI_gpt-4-1106-preview,3615,base_personalization_sct_selfconsistent_fewshot,Pulmonary embolism,4,59282003,False
+OpenAI_gpt-4-1106-preview,3615,base_personalization_sct_selfconsistent_fewshot,Costochondritis,5,64109004,False
+OpenAI_gpt-4-1106-preview,3615,base_personalization_common_selfconsistent_fewshot,Asthma exacerbation,1,281239006,False
+OpenAI_gpt-4-1106-preview,3615,base_personalization_common_selfconsistent_fewshot,Bronchitis,2,32398004,False
+OpenAI_gpt-4-1106-preview,3615,base_personalization_common_selfconsistent_fewshot,Atypical pneumonia,3,233606009,False
+OpenAI_gpt-4-1106-preview,3615,base_personalization_common_selfconsistent_fewshot,Pulmonary embolism,4,59282003,False
+OpenAI_gpt-4-1106-preview,3615,base_personalization_common_selfconsistent_fewshot,Costochondritis,5,64109004,False
+OpenAI_gpt-4-1106-preview,3615,base_personalization_sct_fewshot,Acute bronchitis,1,10509002,False
+OpenAI_gpt-4-1106-preview,3615,base_personalization_sct_fewshot,Pneumonia,2,233604007,False
+OpenAI_gpt-4-1106-preview,3615,base_personalization_sct_fewshot,Asthma,3,195967001,False
+OpenAI_gpt-4-1106-preview,3615,base_personalization_sct_fewshot,Pulmonary embolism,4,59282003,False
+OpenAI_gpt-4-1106-preview,3615,base_personalization_sct_fewshot,Costochondritis,5,64109004,False
+OpenAI_gpt-4-1106-preview,3615,base_personalization_common_fewshot,Hypersensitivity pneumonitis,1,37471005,False
+OpenAI_gpt-4-1106-preview,3615,base_personalization_common_fewshot,Asthma,2,195967001,False
+OpenAI_gpt-4-1106-preview,3615,base_personalization_common_fewshot,Bronchitis,3,32398004,False
+OpenAI_gpt-4-1106-preview,3615,base_personalization_common_fewshot,Pneumonia,4,233604007,False
+OpenAI_gpt-4-1106-preview,3615,base_personalization_common_fewshot,Atypical chest pain,5,102589003,False
+OpenAI_gpt-4-1106-preview,3615,base_sct_fewshot,Hypersensitivity pneumonitis,1,37471005,False
+OpenAI_gpt-4-1106-preview,3615,base_sct_fewshot,Asthma,2,195967001,False
+OpenAI_gpt-4-1106-preview,3615,base_sct_fewshot,Bronchitis,3,32398004,False
+OpenAI_gpt-4-1106-preview,3615,base_sct_fewshot,Pneumonia,4,233604007,False
+OpenAI_gpt-4-1106-preview,3615,base_sct_fewshot,Atypical pneumonia,5,233606009,False
+OpenAI_gpt-4-1106-preview,3615,base_common_fewshot,Hypersensitivity pneumonitis,1,37471005,False
+OpenAI_gpt-4-1106-preview,3615,base_common_fewshot,Asthma,2,195967001,False
+OpenAI_gpt-4-1106-preview,3615,base_common_fewshot,Bronchitis,3,32398004,False
+OpenAI_gpt-4-1106-preview,3615,base_common_fewshot,Pneumonia,4,233604007,False
+OpenAI_gpt-4-1106-preview,3615,base_common_fewshot,Atypical mycobacterial infection,5,111812000,False
+OpenAI_gpt-4-1106-preview,3615,base_common_selfconsistent,Acute bronchitis,1,10509002,False
+OpenAI_gpt-4-1106-preview,3615,base_common_selfconsistent,Pneumonia with normal initial X-ray,2,168733007,False
+OpenAI_gpt-4-1106-preview,3615,base_common_selfconsistent,Asthma exacerbation,3,281239006,False
+OpenAI_gpt-4-1106-preview,3615,base_common_selfconsistent,Viral respiratory infection,4,312133006,False
+OpenAI_gpt-4-1106-preview,3615,base_common_selfconsistent,Pulmonary embolism,5,59282003,False
+OpenAI_gpt-4-1106-preview,3615,base_sct_selfconsistent,Acute bronchitis (disorder),1,10509002,False
+OpenAI_gpt-4-1106-preview,3615,base_sct_selfconsistent,Pneumonia (disorder),2,233604007,False
+OpenAI_gpt-4-1106-preview,3615,base_sct_selfconsistent,Acute viral pharyngitis (disorder),3,195662009,False
+OpenAI_gpt-4-1106-preview,3615,base_sct_selfconsistent,Acute upper respiratory infection (disorder),4,54398005,False
+OpenAI_gpt-4-1106-preview,3615,base_sct_selfconsistent,Bronchial asthma (disorder),5,41427001,False
+OpenAI_gpt-4-1106-preview,3615,base_sct_selfconsistent_fewshot,Hypersensitivity pneumonitis,1,37471005,False
+OpenAI_gpt-4-1106-preview,3615,base_sct_selfconsistent_fewshot,Asthma,2,195967001,False
+OpenAI_gpt-4-1106-preview,3615,base_sct_selfconsistent_fewshot,Bronchitis,3,32398004,False
+OpenAI_gpt-4-1106-preview,3615,base_sct_selfconsistent_fewshot,Atypical pneumonia,4,233606009,False
+OpenAI_gpt-4-1106-preview,3615,base_sct_selfconsistent_fewshot,Viral respiratory infection,5,312133006,False
+OpenAI_gpt-4-1106-preview,3615,base_common_selfconsistent_fewshot,Bronchitis,1,32398004,False
+OpenAI_gpt-4-1106-preview,3615,base_common_selfconsistent_fewshot,Asthma,2,195967001,False
+OpenAI_gpt-4-1106-preview,3615,base_common_selfconsistent_fewshot,Pneumonia with normal X-ray,3,168733007,False
+OpenAI_gpt-4-1106-preview,3615,base_common_selfconsistent_fewshot,Viral respiratory infection,4,312133006,False
+OpenAI_gpt-4-1106-preview,3615,base_common_selfconsistent_fewshot,Hypersensitivity pneumonitis,5,37471005,False
+GoogleAI_gemini-1.0-pro,3615,base_common,Pneumonia,1,233604007,False
+GoogleAI_gemini-1.0-pro,3615,base_common,Asthma,2,195967001,False
+GoogleAI_gemini-1.0-pro,3615,base_common,COPD,3,13645005,False
+GoogleAI_gemini-1.0-pro,3615,base_common,CHF,4,42343007,False
+GoogleAI_gemini-1.0-pro,3615,base_common,PE,5,226884009,False
+GoogleAI_gemini-1.0-pro,3615,base_sct,Pneumonia,1,233604007,False
+GoogleAI_gemini-1.0-pro,3615,base_sct,Asthma,2,195967001,False
+GoogleAI_gemini-1.0-pro,3615,base_sct,Bronchitis,3,32398004,False
+GoogleAI_gemini-1.0-pro,3615,base_sct,Pulmonary embolism,4,59282003,False
+GoogleAI_gemini-1.0-pro,3615,base_sct,Myocardial infarction,5,22298006,False
+GoogleAI_gemini-1.0-pro,3615,base_personalization_common,Pneumonia,1,233604007,False
+GoogleAI_gemini-1.0-pro,3615,base_personalization_common,COPD,2,13645005,False
+GoogleAI_gemini-1.0-pro,3615,base_personalization_common,Asthma,3,195967001,False
+GoogleAI_gemini-1.0-pro,3615,base_personalization_common,CHF,4,42343007,False
+GoogleAI_gemini-1.0-pro,3615,base_personalization_common,PEPE,5,82962001,False
+GoogleAI_gemini-1.0-pro,3615,base_personalization_sct,Pneumonia,1,233604007,False
+GoogleAI_gemini-1.0-pro,3615,base_personalization_sct,Bronchitis,2,32398004,False
+GoogleAI_gemini-1.0-pro,3615,base_personalization_sct,Asthma,3,195967001,False
+GoogleAI_gemini-1.0-pro,3615,base_personalization_sct,Pulmonary embolism,4,59282003,False
+GoogleAI_gemini-1.0-pro,3615,base_personalization_sct,Myocardial infarction,5,22298006,False
+GoogleAI_gemini-1.0-pro,3615,base_personalization_common_selfconsistent,Pneumonia,1,233604007,False
+GoogleAI_gemini-1.0-pro,3615,base_personalization_common_selfconsistent,Asthma,2,195967001,False
+GoogleAI_gemini-1.0-pro,3615,base_personalization_common_selfconsistent,COPD,3,13645005,False
+GoogleAI_gemini-1.0-pro,3615,base_personalization_common_selfconsistent,CHF,4,42343007,False
+GoogleAI_gemini-1.0-pro,3615,base_personalization_common_selfconsistent,PE,5,226884009,False
+GoogleAI_gemini-1.0-pro,3615,base_personalization_sct_selfconsistent,Pneumonia,1,233604007,False
+GoogleAI_gemini-1.0-pro,3615,base_personalization_sct_selfconsistent,Bronchitis,2,32398004,False
+GoogleAI_gemini-1.0-pro,3615,base_personalization_sct_selfconsistent,Asthma,3,195967001,False
+GoogleAI_gemini-1.0-pro,3615,base_personalization_sct_selfconsistent,Pulmonary embolism,4,59282003,False
+GoogleAI_gemini-1.0-pro,3615,base_personalization_sct_selfconsistent,Myocardial infarction,5,22298006,False
+GoogleAI_gemini-1.0-pro,3615,base_personalization_sct_selfconsistent_fewshot,Pneumonia,1,233604007,False
+GoogleAI_gemini-1.0-pro,3615,base_personalization_sct_selfconsistent_fewshot,Asthma,2,195967001,False
+GoogleAI_gemini-1.0-pro,3615,base_personalization_sct_selfconsistent_fewshot,Bronchitis,3,32398004,False
+GoogleAI_gemini-1.0-pro,3615,base_personalization_sct_selfconsistent_fewshot,Pulmonary embolism,4,59282003,False
+GoogleAI_gemini-1.0-pro,3615,base_personalization_sct_selfconsistent_fewshot,Myocardial infarction,5,22298006,False
+GoogleAI_gemini-1.0-pro,3615,base_personalization_common_selfconsistent_fewshot,Pneumonia,1,233604007,False
+GoogleAI_gemini-1.0-pro,3615,base_personalization_common_selfconsistent_fewshot,Asthma,2,195967001,False
+GoogleAI_gemini-1.0-pro,3615,base_personalization_common_selfconsistent_fewshot,COPD,3,13645005,False
+GoogleAI_gemini-1.0-pro,3615,base_personalization_common_selfconsistent_fewshot,Bronchitis,4,32398004,False
+GoogleAI_gemini-1.0-pro,3615,base_personalization_common_selfconsistent_fewshot,Pulmonary embolism,5,59282003,False
+GoogleAI_gemini-1.0-pro,3615,base_personalization_sct_fewshot,Pneumonia,1,233604007,False
+GoogleAI_gemini-1.0-pro,3615,base_personalization_sct_fewshot,Asthma,2,195967001,False
+GoogleAI_gemini-1.0-pro,3615,base_personalization_sct_fewshot,Bronchitis,3,32398004,False
+GoogleAI_gemini-1.0-pro,3615,base_personalization_sct_fewshot,Pulmonary embolism,4,59282003,False
+GoogleAI_gemini-1.0-pro,3615,base_personalization_sct_fewshot,Myocardial infarctionMyocardial infarction,5,22298006,False
+GoogleAI_gemini-1.0-pro,3615,base_personalization_common_fewshot,Pneumonia,1,233604007,False
+GoogleAI_gemini-1.0-pro,3615,base_personalization_common_fewshot,Asthma,2,195967001,False
+GoogleAI_gemini-1.0-pro,3615,base_personalization_common_fewshot,COPD,3,13645005,False
+GoogleAI_gemini-1.0-pro,3615,base_personalization_common_fewshot,Pulmonary embolism,4,59282003,False
+GoogleAI_gemini-1.0-pro,3615,base_personalization_common_fewshot,Myocardial infarctionMyocardial infarction,5,22298006,False
+GoogleAI_gemini-1.0-pro,3615,base_sct_fewshot,Pneumonia,1,233604007,False
+GoogleAI_gemini-1.0-pro,3615,base_sct_fewshot,Asthma,2,195967001,False
+GoogleAI_gemini-1.0-pro,3615,base_sct_fewshot,Bronchitis,3,32398004,False
+GoogleAI_gemini-1.0-pro,3615,base_sct_fewshot,Pleural effusion,4,60046008,False
+GoogleAI_gemini-1.0-pro,3615,base_sct_fewshot,Pulmonary embolismPulmonary embolism,5,59282003,False
+GoogleAI_gemini-1.0-pro,3615,base_common_fewshot,Pneumonia,1,233604007,False
+GoogleAI_gemini-1.0-pro,3615,base_common_fewshot,Asthma,2,195967001,False
+GoogleAI_gemini-1.0-pro,3615,base_common_fewshot,COPD,3,13645005,False
+GoogleAI_gemini-1.0-pro,3615,base_common_fewshot,Bronchitis,4,32398004,False
+GoogleAI_gemini-1.0-pro,3615,base_common_fewshot,Pulmonary embolismPulmonary embolism,5,59282003,False
+GoogleAI_gemini-1.0-pro,3615,base_common_selfconsistent,Pneumonia,1,233604007,False
+GoogleAI_gemini-1.0-pro,3615,base_common_selfconsistent,Asthma,2,195967001,False
+GoogleAI_gemini-1.0-pro,3615,base_common_selfconsistent,COPD,3,13645005,False
+GoogleAI_gemini-1.0-pro,3615,base_common_selfconsistent,CHF,4,42343007,False
+GoogleAI_gemini-1.0-pro,3615,base_common_selfconsistent,PEPE,5,82962001,False
+GoogleAI_gemini-1.0-pro,3615,base_sct_selfconsistent,Asthma,1,195967001,False
+GoogleAI_gemini-1.0-pro,3615,base_sct_selfconsistent,Pneumonia,2,233604007,False
+GoogleAI_gemini-1.0-pro,3615,base_sct_selfconsistent,Bronchitis,3,32398004,False
+GoogleAI_gemini-1.0-pro,3615,base_sct_selfconsistent,Pulmonary embolism,4,59282003,False
+GoogleAI_gemini-1.0-pro,3615,base_sct_selfconsistent,Myocardial infarction Myocardial infarction,5,22298006,False
+GoogleAI_gemini-1.0-pro,3615,base_sct_selfconsistent_fewshot,Pneumonia,1,233604007,False
+GoogleAI_gemini-1.0-pro,3615,base_sct_selfconsistent_fewshot,Asthma,2,195967001,False
+GoogleAI_gemini-1.0-pro,3615,base_sct_selfconsistent_fewshot,Bronchitis,3,32398004,False
+GoogleAI_gemini-1.0-pro,3615,base_sct_selfconsistent_fewshot,Pulmonary embolism,4,59282003,False
+GoogleAI_gemini-1.0-pro,3615,base_sct_selfconsistent_fewshot,Pleural effusion,5,60046008,False
+GoogleAI_gemini-1.0-pro,3615,base_common_selfconsistent_fewshot,Pneumonia,1,233604007,False
+GoogleAI_gemini-1.0-pro,3615,base_common_selfconsistent_fewshot,Asthma,2,195967001,False
+GoogleAI_gemini-1.0-pro,3615,base_common_selfconsistent_fewshot,COPD,3,13645005,False
+GoogleAI_gemini-1.0-pro,3615,base_common_selfconsistent_fewshot,Bronchitis,4,32398004,False
+GoogleAI_gemini-1.0-pro,3615,base_common_selfconsistent_fewshot,Pulmonary embolism,5,59282003,False
+AnthropicAI_claude-3-opus-20240229,3615,base_common,Acute bronchitis,1,10509002,False
+AnthropicAI_claude-3-opus-20240229,3615,base_common,Pneumonia,2,233604007,False
+AnthropicAI_claude-3-opus-20240229,3615,base_common,Asthma exacerbation,3,281239006,False
+AnthropicAI_claude-3-opus-20240229,3615,base_common,Atypical chest pain,4,102589003,False
+AnthropicAI_claude-3-opus-20240229,3615,base_common,Viral upper respiratory infection,5,281794004,False
+AnthropicAI_claude-3-opus-20240229,3615,base_sct,Acute bronchitis (disorder),1,10509002,False
+AnthropicAI_claude-3-opus-20240229,3615,base_sct,Viral pneumonia (disorder),2,75570004,False
+AnthropicAI_claude-3-opus-20240229,3615,base_sct,Atypical pneumonia (disorder),3,233606009,False
+AnthropicAI_claude-3-opus-20240229,3615,base_sct,Acute bacterial pneumonia (disorder),4,53084003,False
+AnthropicAI_claude-3-opus-20240229,3615,base_sct,Bronchial asthma (disorder),5,41427001,False
+AnthropicAI_claude-3-opus-20240229,3615,base_personalization_common,Acute bronchitis,1,10509002,False
+AnthropicAI_claude-3-opus-20240229,3615,base_personalization_common,Pneumonia,2,233604007,False
+AnthropicAI_claude-3-opus-20240229,3615,base_personalization_common,Asthma exacerbation,3,281239006,False
+AnthropicAI_claude-3-opus-20240229,3615,base_personalization_common,GERD,4,235595009,False
+AnthropicAI_claude-3-opus-20240229,3615,base_personalization_common,Costochondritis,5,64109004,False
+AnthropicAI_claude-3-opus-20240229,3615,base_personalization_sct,Acute bronchitis (disorder),1,10509002,False
+AnthropicAI_claude-3-opus-20240229,3615,base_personalization_sct,Viral pneumonia (disorder),2,75570004,False
+AnthropicAI_claude-3-opus-20240229,3615,base_personalization_sct,Atypical pneumonia (disorder),3,233606009,False
+AnthropicAI_claude-3-opus-20240229,3615,base_personalization_sct,Acute bacterial pneumonia (disorder),4,53084003,False
+AnthropicAI_claude-3-opus-20240229,3615,base_personalization_sct,Bronchial asthma with status asthmaticus (disorder),5,55570000,False
+AnthropicAI_claude-3-opus-20240229,3615,base_personalization_common_selfconsistent,Acute bronchitis,1,10509002,False
+AnthropicAI_claude-3-opus-20240229,3615,base_personalization_common_selfconsistent,Pneumonia,2,233604007,False
+AnthropicAI_claude-3-opus-20240229,3615,base_personalization_common_selfconsistent,Asthma exacerbation,3,281239006,False
+AnthropicAI_claude-3-opus-20240229,3615,base_personalization_common_selfconsistent,GERD,4,235595009,False
+AnthropicAI_claude-3-opus-20240229,3615,base_personalization_common_selfconsistent,Costochondritis,5,64109004,False
+AnthropicAI_claude-3-opus-20240229,3615,base_personalization_sct_selfconsistent,Acute bronchitis (disorder),1,10509002,False
+AnthropicAI_claude-3-opus-20240229,3615,base_personalization_sct_selfconsistent,Viral pneumonia (disorder),2,75570004,False
+AnthropicAI_claude-3-opus-20240229,3615,base_personalization_sct_selfconsistent,Atypical pneumonia (disorder),3,233606009,False
+AnthropicAI_claude-3-opus-20240229,3615,base_personalization_sct_selfconsistent,Acute bacterial pneumonia (disorder),4,53084003,False
+AnthropicAI_claude-3-opus-20240229,3615,base_personalization_sct_selfconsistent,Bronchial asthma (disorder),5,41427001,False
+AnthropicAI_claude-3-opus-20240229,3615,base_personalization_sct_selfconsistent_fewshot,Hypersensitivity pneumonitis,1,37471005,False
+AnthropicAI_claude-3-opus-20240229,3615,base_personalization_sct_selfconsistent_fewshot,Pneumonia,2,233604007,False
+AnthropicAI_claude-3-opus-20240229,3615,base_personalization_sct_selfconsistent_fewshot,Bronchitis,3,32398004,False
+AnthropicAI_claude-3-opus-20240229,3615,base_personalization_sct_selfconsistent_fewshot,Asthma,4,195967001,False
+AnthropicAI_claude-3-opus-20240229,3615,base_personalization_sct_selfconsistent_fewshot,Atypical pneumonia,5,233606009,False
+AnthropicAI_claude-3-opus-20240229,3615,base_personalization_common_selfconsistent_fewshot,Hypersensitivity pneumonitis,1,37471005,False
+AnthropicAI_claude-3-opus-20240229,3615,base_personalization_common_selfconsistent_fewshot,Pneumonia,2,233604007,False
+AnthropicAI_claude-3-opus-20240229,3615,base_personalization_common_selfconsistent_fewshot,Asthma,3,195967001,False
+AnthropicAI_claude-3-opus-20240229,3615,base_personalization_common_selfconsistent_fewshot,Bronchitis,4,32398004,False
+AnthropicAI_claude-3-opus-20240229,3615,base_personalization_common_selfconsistent_fewshot,Atypical pneumonia,5,233606009,False
+AnthropicAI_claude-3-opus-20240229,3615,base_personalization_sct_fewshot,Hypersensitivity pneumonitis,1,37471005,False
+AnthropicAI_claude-3-opus-20240229,3615,base_personalization_sct_fewshot,Pneumonia,2,233604007,False
+AnthropicAI_claude-3-opus-20240229,3615,base_personalization_sct_fewshot,Acute bronchitis,3,10509002,False
+AnthropicAI_claude-3-opus-20240229,3615,base_personalization_sct_fewshot,Asthma,4,195967001,False
+AnthropicAI_claude-3-opus-20240229,3615,base_personalization_sct_fewshot,Atypical pneumonia,5,233606009,False
+AnthropicAI_claude-3-opus-20240229,3615,base_personalization_common_fewshot,Hypersensitivity pneumonitis,1,37471005,False
+AnthropicAI_claude-3-opus-20240229,3615,base_personalization_common_fewshot,Pneumonia,2,233604007,False
+AnthropicAI_claude-3-opus-20240229,3615,base_personalization_common_fewshot,Asthma,3,195967001,False
+AnthropicAI_claude-3-opus-20240229,3615,base_personalization_common_fewshot,Bronchitis,4,32398004,False
+AnthropicAI_claude-3-opus-20240229,3615,base_personalization_common_fewshot,Atypical pneumonia,5,233606009,False
+AnthropicAI_claude-3-opus-20240229,3615,base_sct_fewshot,Hypersensitivity pneumonitis,1,37471005,False
+AnthropicAI_claude-3-opus-20240229,3615,base_sct_fewshot,Pneumonia,2,233604007,False
+AnthropicAI_claude-3-opus-20240229,3615,base_sct_fewshot,Bronchitis,3,32398004,False
+AnthropicAI_claude-3-opus-20240229,3615,base_sct_fewshot,Asthma,4,195967001,False
+AnthropicAI_claude-3-opus-20240229,3615,base_sct_fewshot,Atypical pneumonia,5,233606009,False
+AnthropicAI_claude-3-opus-20240229,3615,base_common_fewshot,Hypersensitivity pneumonitis,1,37471005,False
+AnthropicAI_claude-3-opus-20240229,3615,base_common_fewshot,Pneumonia,2,233604007,False
+AnthropicAI_claude-3-opus-20240229,3615,base_common_fewshot,Asthma,3,195967001,False
+AnthropicAI_claude-3-opus-20240229,3615,base_common_fewshot,Bronchitis,4,32398004,False
+AnthropicAI_claude-3-opus-20240229,3615,base_common_fewshot,COPD,5,13645005,False
+AnthropicAI_claude-3-opus-20240229,3615,base_common_selfconsistent,Acute bronchitis,1,10509002,False
+AnthropicAI_claude-3-opus-20240229,3615,base_common_selfconsistent,Pneumonia,2,233604007,False
+AnthropicAI_claude-3-opus-20240229,3615,base_common_selfconsistent,Asthma exacerbation,3,281239006,False
+AnthropicAI_claude-3-opus-20240229,3615,base_common_selfconsistent,GERD,4,235595009,False
+AnthropicAI_claude-3-opus-20240229,3615,base_common_selfconsistent,Costochondritis,5,64109004,False
+AnthropicAI_claude-3-opus-20240229,3615,base_sct_selfconsistent,Acute bronchitis (disorder),1,10509002,False
+AnthropicAI_claude-3-opus-20240229,3615,base_sct_selfconsistent,Viral pneumonia (disorder),2,75570004,False
+AnthropicAI_claude-3-opus-20240229,3615,base_sct_selfconsistent,Atypical pneumonia (disorder),3,233606009,False
+AnthropicAI_claude-3-opus-20240229,3615,base_sct_selfconsistent,Acute bronchiolitis (disorder),4,5505005,False
+AnthropicAI_claude-3-opus-20240229,3615,base_sct_selfconsistent,Bronchial asthma (disorder),5,41427001,False
+AnthropicAI_claude-3-opus-20240229,3615,base_sct_selfconsistent_fewshot,Hypersensitivity pneumonitis,1,37471005,False
+AnthropicAI_claude-3-opus-20240229,3615,base_sct_selfconsistent_fewshot,Pneumonia,2,233604007,False
+AnthropicAI_claude-3-opus-20240229,3615,base_sct_selfconsistent_fewshot,Bronchitis,3,32398004,False
+AnthropicAI_claude-3-opus-20240229,3615,base_sct_selfconsistent_fewshot,Asthma,4,195967001,False
+AnthropicAI_claude-3-opus-20240229,3615,base_sct_selfconsistent_fewshot,Atypical pneumonia,5,233606009,False
+AnthropicAI_claude-3-opus-20240229,3615,base_common_selfconsistent_fewshot,Hypersensitivity pneumonitis,1,37471005,False
+AnthropicAI_claude-3-opus-20240229,3615,base_common_selfconsistent_fewshot,Asthma,2,195967001,False
+AnthropicAI_claude-3-opus-20240229,3615,base_common_selfconsistent_fewshot,Pneumonia,3,233604007,False
+AnthropicAI_claude-3-opus-20240229,3615,base_common_selfconsistent_fewshot,Acute bronchitis,4,10509002,False
+AnthropicAI_claude-3-opus-20240229,3615,base_common_selfconsistent_fewshot,Atypical pneumonia,5,233606009,False
+MetaAI_llama-2-70b-f,3615,base_common,Pneumonia,1,233604007,False
+MetaAI_llama-2-70b-f,3615,base_common,Acute bronchitis,2,10509002,False
+MetaAI_llama-2-70b-f,3615,base_common,Asthma,3,195967001,False
+MetaAI_llama-2-70b-f,3615,base_common,Pulmonary embolism,4,59282003,False
+MetaAI_llama-2-70b-f,3615,base_common,Costochondritis,5,64109004,False
+MetaAI_llama-2-70b-f,3615,base_sct,Pneumonia,1,233604007,False
+MetaAI_llama-2-70b-f,3615,base_sct,Asthma,2,195967001,False
+MetaAI_llama-2-70b-f,3615,base_sct,Pulmonary embolism,3,59282003,False
+MetaAI_llama-2-70b-f,3615,base_sct,Costochondritis,4,64109004,False
+MetaAI_llama-2-70b-f,3615,base_sct,Pneumothorax,5,36118008,False
+MetaAI_llama-2-70b-f,3615,base_personalization_common,Pneumonia,1,233604007,False
+MetaAI_llama-2-70b-f,3615,base_personalization_common,Acute bronchitis,2,10509002,False
+MetaAI_llama-2-70b-f,3615,base_personalization_common,Asthma,3,195967001,False
+MetaAI_llama-2-70b-f,3615,base_personalization_common,Pulmonary embolism,4,59282003,False
+MetaAI_llama-2-70b-f,3615,base_personalization_common,Myocardial infarction,5,22298006,False
+MetaAI_llama-2-70b-f,3615,base_personalization_sct,Pneumonia,1,233604007,False
+MetaAI_llama-2-70b-f,3615,base_personalization_sct,Asthma,2,195967001,False
+MetaAI_llama-2-70b-f,3615,base_personalization_sct,Pulmonary embolism,3,59282003,False
+MetaAI_llama-2-70b-f,3615,base_personalization_sct,Costochondritis,4,64109004,False
+MetaAI_llama-2-70b-f,3615,base_personalization_sct,Esophageal spasm,5,79962008,False
+MetaAI_llama-2-70b-f,3615,base_personalization_common_selfconsistent,Pneumonia,1,233604007,False
+MetaAI_llama-2-70b-f,3615,base_personalization_common_selfconsistent,Acute bronchitis,2,10509002,False
+MetaAI_llama-2-70b-f,3615,base_personalization_common_selfconsistent,Asthma,3,195967001,False
+MetaAI_llama-2-70b-f,3615,base_personalization_common_selfconsistent,Pulmonary embolism,4,59282003,False
+MetaAI_llama-2-70b-f,3615,base_personalization_common_selfconsistent,Costochondritis,5,64109004,False
+MetaAI_llama-2-70b-f,3615,base_personalization_sct_selfconsistent,Pneumonia,1,233604007,False
+MetaAI_llama-2-70b-f,3615,base_personalization_sct_selfconsistent,Asthma,2,195967001,False
+MetaAI_llama-2-70b-f,3615,base_personalization_sct_selfconsistent,Pulmonary embolism,3,59282003,False
+MetaAI_llama-2-70b-f,3615,base_personalization_sct_selfconsistent,Costochondritis,4,64109004,False
+MetaAI_llama-2-70b-f,3615,base_personalization_sct_selfconsistent,Pneumothorax,5,36118008,False
+MetaAI_llama-2-70b-f,3615,base_personalization_sct_selfconsistent_fewshot,Pneumonia,1,233604007,False
+MetaAI_llama-2-70b-f,3615,base_personalization_sct_selfconsistent_fewshot,Asthma,2,195967001,False
+MetaAI_llama-2-70b-f,3615,base_personalization_sct_selfconsistent_fewshot,Acute bronchitis,3,10509002,False
+MetaAI_llama-2-70b-f,3615,base_personalization_sct_selfconsistent_fewshot,Pulmonary embolism,4,59282003,False
+MetaAI_llama-2-70b-f,3615,base_personalization_sct_selfconsistent_fewshot,Costochondritis,5,64109004,False
+MetaAI_llama-2-70b-f,3615,base_personalization_common_selfconsistent_fewshot,Pneumonia,1,233604007,False
+MetaAI_llama-2-70b-f,3615,base_personalization_common_selfconsistent_fewshot,Asthma,2,195967001,False
+MetaAI_llama-2-70b-f,3615,base_personalization_common_selfconsistent_fewshot,Pulmonary embolism,3,59282003,False
+MetaAI_llama-2-70b-f,3615,base_personalization_common_selfconsistent_fewshot,Pneumothorax,4,36118008,False
+MetaAI_llama-2-70b-f,3615,base_personalization_common_selfconsistent_fewshot,Costochondritis,5,64109004,False
+MetaAI_llama-2-70b-f,3615,base_personalization_sct_fewshot,Pneumonia,1,233604007,False
+MetaAI_llama-2-70b-f,3615,base_personalization_sct_fewshot,Asthma,2,195967001,False
+MetaAI_llama-2-70b-f,3615,base_personalization_sct_fewshot,Acute bronchitis,3,10509002,False
+MetaAI_llama-2-70b-f,3615,base_personalization_sct_fewshot,Pulmonary embolism,4,59282003,False
+MetaAI_llama-2-70b-f,3615,base_personalization_sct_fewshot,Angina pectoris,5,194828000,False
+MetaAI_llama-2-70b-f,3615,base_personalization_common_fewshot,Pneumonia,1,233604007,False
+MetaAI_llama-2-70b-f,3615,base_personalization_common_fewshot,Asthma,2,195967001,False
+MetaAI_llama-2-70b-f,3615,base_personalization_common_fewshot,Pulmonary embolism,3,59282003,False
+MetaAI_llama-2-70b-f,3615,base_personalization_common_fewshot,Costochondritis,4,64109004,False
+MetaAI_llama-2-70b-f,3615,base_personalization_common_fewshot,Esophageal spasm,5,79962008,False
+MetaAI_llama-2-70b-f,3615,base_sct_fewshot,Pneumonia,1,233604007,False
+MetaAI_llama-2-70b-f,3615,base_sct_fewshot,Pneumothorax,2,36118008,False
+MetaAI_llama-2-70b-f,3615,base_sct_fewshot,Acute bronchitis,3,10509002,False
+MetaAI_llama-2-70b-f,3615,base_sct_fewshot,Asthma,4,195967001,False
+MetaAI_llama-2-70b-f,3615,base_sct_fewshot,Pulmonary embolism,5,59282003,False
+MetaAI_llama-2-70b-f,3615,base_common_fewshot,Pneumonia,1,233604007,False
+MetaAI_llama-2-70b-f,3615,base_common_fewshot,case description:,2,413769002,False
+MetaAI_llama-2-70b-f,3615,base_common_fewshot,28 year Male presents with Headache.,3,102523004,False
+MetaAI_llama-2-70b-f,3615,base_common_fewshot,Symptom,4,162470006,False
+MetaAI_llama-2-70b-f,3615,base_common_fewshot,Medical History: History of migraines,5,161481007,False
+MetaAI_llama-2-70b-f,3615,base_common_selfconsistent,Pneumonia,1,233604007,False
+MetaAI_llama-2-70b-f,3615,base_common_selfconsistent,Acute bronchitis,2,10509002,False
+MetaAI_llama-2-70b-f,3615,base_common_selfconsistent,Asthma,3,195967001,False
+MetaAI_llama-2-70b-f,3615,base_common_selfconsistent,Pulmonary embolism,4,59282003,False
+MetaAI_llama-2-70b-f,3615,base_common_selfconsistent,Costochondritis,5,64109004,False
+MetaAI_llama-2-70b-f,3615,base_sct_selfconsistent,Pneumonia,1,233604007,False
+MetaAI_llama-2-70b-f,3615,base_sct_selfconsistent,Asthma,2,195967001,False
+MetaAI_llama-2-70b-f,3615,base_sct_selfconsistent,Pulmonary embolism,3,59282003,False
+MetaAI_llama-2-70b-f,3615,base_sct_selfconsistent,Pneumothorax,4,36118008,False
+MetaAI_llama-2-70b-f,3615,base_sct_selfconsistent,Costochondritis,5,64109004,False
+MetaAI_llama-2-70b-f,3615,base_sct_selfconsistent_fewshot,Pneumonia,1,233604007,False
+MetaAI_llama-2-70b-f,3615,base_sct_selfconsistent_fewshot,Asthma,2,195967001,False
+MetaAI_llama-2-70b-f,3615,base_sct_selfconsistent_fewshot,Acute bronchitis,3,10509002,False
+MetaAI_llama-2-70b-f,3615,base_sct_selfconsistent_fewshot,Pulmonary embolism,4,59282003,False
+MetaAI_llama-2-70b-f,3615,base_sct_selfconsistent_fewshot,Costochondritis,5,64109004,False
+MetaAI_llama-2-70b-f,3615,base_common_selfconsistent_fewshot,Pneumonia,1,233604007,False
+MetaAI_llama-2-70b-f,3615,base_common_selfconsistent_fewshot,Asthma,2,195967001,False
+MetaAI_llama-2-70b-f,3615,base_common_selfconsistent_fewshot,Pulmonary embolism,3,59282003,False
+MetaAI_llama-2-70b-f,3615,base_common_selfconsistent_fewshot,Pneumothorax,4,36118008,False
+MetaAI_llama-2-70b-f,3615,base_common_selfconsistent_fewshot,Costochondritis,5,64109004,False
+MistralAI_mistral-large-latest,3615,base_common,Pneumonia,1,233604007,False
+MistralAI_mistral-large-latest,3615,base_common,Bronchitis,2,32398004,False
+MistralAI_mistral-large-latest,3615,base_common,Asthma,3,195967001,False
+MistralAI_mistral-large-latest,3615,base_common,Pulmonary embolism,4,59282003,False
+MistralAI_mistral-large-latest,3615,base_common,Gastroesophageal reflux disease (GERD),5,235595009,False
+MistralAI_mistral-large-latest,3615,base_sct,Acute bronchitis,1,10509002,False
+MistralAI_mistral-large-latest,3615,base_sct,Pneumonia,2,233604007,False
+MistralAI_mistral-large-latest,3615,base_sct,Asthma,3,195967001,False
+MistralAI_mistral-large-latest,3615,base_sct,Gastroesophageal reflux disease,4,235595009,False
+MistralAI_mistral-large-latest,3615,base_sct,Pulmonary embolism,5,59282003,False
+MistralAI_mistral-large-latest,3615,base_personalization_common,Pneumonia,1,233604007,False
+MistralAI_mistral-large-latest,3615,base_personalization_common,Bronchitis,2,32398004,False
+MistralAI_mistral-large-latest,3615,base_personalization_common,Asthma,3,195967001,False
+MistralAI_mistral-large-latest,3615,base_personalization_common,Pulmonary embolism,4,59282003,False
+MistralAI_mistral-large-latest,3615,base_personalization_common,Gastroesophageal reflux disease (GERD),5,235595009,False
+MistralAI_mistral-large-latest,3615,base_personalization_sct,Acute bronchitis,1,10509002,False
+MistralAI_mistral-large-latest,3615,base_personalization_sct,Pneumonia,2,233604007,False
+MistralAI_mistral-large-latest,3615,base_personalization_sct,Asthma,3,195967001,False
+MistralAI_mistral-large-latest,3615,base_personalization_sct,Gastroesophageal reflux disease,4,235595009,False
+MistralAI_mistral-large-latest,3615,base_personalization_sct,Pulmonary embolism,5,59282003,False
+MistralAI_mistral-large-latest,3615,base_personalization_common_selfconsistent,Pneumonia,1,233604007,False
+MistralAI_mistral-large-latest,3615,base_personalization_common_selfconsistent,Bronchitis,2,32398004,False
+MistralAI_mistral-large-latest,3615,base_personalization_common_selfconsistent,Asthma,3,195967001,False
+MistralAI_mistral-large-latest,3615,base_personalization_common_selfconsistent,Pulmonary embolism,4,59282003,False
+MistralAI_mistral-large-latest,3615,base_personalization_common_selfconsistent,Gastroesophageal reflux disease (GERD),5,235595009,False
+MistralAI_mistral-large-latest,3615,base_personalization_sct_selfconsistent,Acute bronchitis,1,10509002,False
+MistralAI_mistral-large-latest,3615,base_personalization_sct_selfconsistent,Pneumonia,2,233604007,False
+MistralAI_mistral-large-latest,3615,base_personalization_sct_selfconsistent,Asthma,3,195967001,False
+MistralAI_mistral-large-latest,3615,base_personalization_sct_selfconsistent,Bronchospasm due to environmental exposure,4,762462005,False
+MistralAI_mistral-large-latest,3615,base_personalization_sct_selfconsistent,Viral lower respiratory infection,5,312134000,False
+MistralAI_mistral-large-latest,3615,base_personalization_sct_selfconsistent_fewshot,Bronchitis,1,32398004,False
+MistralAI_mistral-large-latest,3615,base_personalization_sct_selfconsistent_fewshot,Asthma,2,195967001,False
+MistralAI_mistral-large-latest,3615,base_personalization_sct_selfconsistent_fewshot,Pneumonia,3,233604007,False
+MistralAI_mistral-large-latest,3615,base_personalization_sct_selfconsistent_fewshot,Pulmonary embolism,4,59282003,False
+MistralAI_mistral-large-latest,3615,base_personalization_sct_selfconsistent_fewshot,Gastroesophageal reflux disease (GERD),5,235595009,False
+MistralAI_mistral-large-latest,3615,base_personalization_common_selfconsistent_fewshot,Bronchitis,1,32398004,False
+MistralAI_mistral-large-latest,3615,base_personalization_common_selfconsistent_fewshot,Asthma,2,195967001,False
+MistralAI_mistral-large-latest,3615,base_personalization_common_selfconsistent_fewshot,Pneumonia,3,233604007,False
+MistralAI_mistral-large-latest,3615,base_personalization_common_selfconsistent_fewshot,Pulmonary embolism,4,59282003,False
+MistralAI_mistral-large-latest,3615,base_personalization_common_selfconsistent_fewshot,Gastroesophageal reflux disease (GERD),5,235595009,False
+MistralAI_mistral-large-latest,3615,base_personalization_sct_fewshot,Bronchitis,1,32398004,False
+MistralAI_mistral-large-latest,3615,base_personalization_sct_fewshot,Asthma,2,195967001,False
+MistralAI_mistral-large-latest,3615,base_personalization_sct_fewshot,Pneumonia,3,233604007,False
+MistralAI_mistral-large-latest,3615,base_personalization_sct_fewshot,Pulmonary embolism,4,59282003,False
+MistralAI_mistral-large-latest,3615,base_personalization_sct_fewshot,Gastroesophageal reflux disease,5,235595009,False
+MistralAI_mistral-large-latest,3615,base_personalization_common_fewshot,Bronchitis,1,32398004,False
+MistralAI_mistral-large-latest,3615,base_personalization_common_fewshot,Asthma,2,195967001,False
+MistralAI_mistral-large-latest,3615,base_personalization_common_fewshot,Pneumonia,3,233604007,False
+MistralAI_mistral-large-latest,3615,base_personalization_common_fewshot,Pulmonary embolism,4,59282003,False
+MistralAI_mistral-large-latest,3615,base_personalization_common_fewshot,Gastroesophageal reflux disease (GERD),5,235595009,False
+MistralAI_mistral-large-latest,3615,base_sct_fewshot,Asthma,1,195967001,False
+MistralAI_mistral-large-latest,3615,base_sct_fewshot,Bronchitis,2,32398004,False
+MistralAI_mistral-large-latest,3615,base_sct_fewshot,Pneumonia,3,233604007,False
+MistralAI_mistral-large-latest,3615,base_sct_fewshot,Pulmonary embolism,4,59282003,False
+MistralAI_mistral-large-latest,3615,base_sct_fewshot,Gastroesophageal reflux disease (GERD),5,235595009,False
+MistralAI_mistral-large-latest,3615,base_common_fewshot,Bronchitis,1,32398004,False
+MistralAI_mistral-large-latest,3615,base_common_fewshot,Asthma,2,195967001,False
+MistralAI_mistral-large-latest,3615,base_common_fewshot,Pneumonia,3,233604007,False
+MistralAI_mistral-large-latest,3615,base_common_fewshot,Pulmonary embolism,4,59282003,False
+MistralAI_mistral-large-latest,3615,base_common_fewshot,Gastroesophageal reflux disease (GERD),5,235595009,False
+MistralAI_mistral-large-latest,3615,base_common_selfconsistent,Pneumonia,1,233604007,False
+MistralAI_mistral-large-latest,3615,base_common_selfconsistent,Bronchitis,2,32398004,False
+MistralAI_mistral-large-latest,3615,base_common_selfconsistent,Asthma,3,195967001,False
+MistralAI_mistral-large-latest,3615,base_common_selfconsistent,Pulmonary embolism,4,59282003,False
+MistralAI_mistral-large-latest,3615,base_common_selfconsistent,Gastroesophageal reflux disease (GERD),5,235595009,False
+MistralAI_mistral-large-latest,3615,base_sct_selfconsistent,Bronchitis,1,32398004,False
+MistralAI_mistral-large-latest,3615,base_sct_selfconsistent,Pneumonia,2,233604007,False
+MistralAI_mistral-large-latest,3615,base_sct_selfconsistent,Asthma,3,195967001,False
+MistralAI_mistral-large-latest,3615,base_sct_selfconsistent,Gastroesophageal reflux disease,4,235595009,False
+MistralAI_mistral-large-latest,3615,base_sct_selfconsistent,Pulmonary embolism,5,59282003,False
+MistralAI_mistral-large-latest,3615,base_sct_selfconsistent_fewshot,Asthma,1,195967001,False
+MistralAI_mistral-large-latest,3615,base_sct_selfconsistent_fewshot,Bronchitis,2,32398004,False
+MistralAI_mistral-large-latest,3615,base_sct_selfconsistent_fewshot,Pneumonia,3,233604007,False
+MistralAI_mistral-large-latest,3615,base_sct_selfconsistent_fewshot,Pulmonary embolism,4,59282003,False
+MistralAI_mistral-large-latest,3615,base_sct_selfconsistent_fewshot,Gastroesophageal reflux disease (GERD),5,235595009,False
+MistralAI_mistral-large-latest,3615,base_common_selfconsistent_fewshot,Bronchitis,1,32398004,False
+MistralAI_mistral-large-latest,3615,base_common_selfconsistent_fewshot,Asthma,2,195967001,False
+MistralAI_mistral-large-latest,3615,base_common_selfconsistent_fewshot,Pneumonia,3,233604007,False
+MistralAI_mistral-large-latest,3615,base_common_selfconsistent_fewshot,Pulmonary embolism,4,59282003,False
+MistralAI_mistral-large-latest,3615,base_common_selfconsistent_fewshot,Environmental allergy induced bronchospasm,5,426232007,False
